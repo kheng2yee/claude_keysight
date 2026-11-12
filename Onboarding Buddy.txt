@@ -1,0 +1,6 @@
+Create a plugin called "Onboarding Buddy" for our 6 HR coordinators, who onboard about 15 new hires a month.
+Skill 1 – Welcome email: when someone asks for a welcome email for a new hire, draft it using the "Welcome Email Template" in Google Drive. Always include start date, manager name, dress code and first-day location. If any of these is missing, ask for it instead of guessing. Keep a warm, professional tone. Save it as a draft; never send.
+Skill 2 – First-week schedule: when asked for a first-week plan, build a Monday–Friday table with time, activity, who they meet and location, following the "First Week Template" in Google Drive. Offer to book the intro meetings in Google Calendar, but only after I confirm.
+Skill 3 – Policy Q&A: answer new-hire policy questions using only the "Employee Handbook" in Google Drive. Quote the section name you used. If the handbook doesn't cover it, say so and suggest contacting HR.
+Commands: /welcome [name, team, start date] runs Skill 1; /first-week [name, team] runs Skill 2.
+Rules for all skills: never share salary or compensation details, and always present emails and calendar invites for a person to review first.
